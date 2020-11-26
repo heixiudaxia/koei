@@ -1,4 +1,4 @@
-package com.book.thinkinginjava.doc.thread;
+package onjava8.thread;
 
 /**
  * @Author jojo

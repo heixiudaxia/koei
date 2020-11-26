@@ -1,4 +1,4 @@
-package com.book.thinkinginjava.doc.regex.string;
+package onjava8.regex.string;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;

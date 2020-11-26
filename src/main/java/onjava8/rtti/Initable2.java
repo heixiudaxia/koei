@@ -1,4 +1,4 @@
-package com.book.thinkinginjava.doc.rtti;
+package onjava8.rtti;
 
 /**
  * @Author jojo

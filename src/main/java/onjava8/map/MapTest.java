@@ -1,4 +1,4 @@
-package com.book.thinkinginjava.doc.map;
+package onjava8.map;
 
 import java.util.Collections;
 import java.util.HashMap;

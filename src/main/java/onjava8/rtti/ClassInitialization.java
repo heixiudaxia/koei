@@ -1,6 +1,4 @@
-package com.book.thinkinginjava.doc.rtti;
-
-import com.sun.org.apache.xml.internal.security.Init;
+package onjava8.rtti;
 
 import java.util.Random;
 

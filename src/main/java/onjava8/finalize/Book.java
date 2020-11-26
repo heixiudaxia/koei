@@ -1,4 +1,4 @@
-package com.book.thinkinginjava.doc.finalize;
+package onjava8.finalize;
 
 /**
  * @Author jojo
